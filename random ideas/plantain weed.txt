@@ -1,0 +1,6 @@
+PLANTAIN WEED
+
+when eaten raw, can heal 1.5 hearts and apply a short slowness effect, but the heart is gonna be green and you cant heal with plantain again until some of the green hearts are broken
+
+you can make a stew out of plantain weed
+the stew will apply heal and slowness effects (and if there will be sicknesses in the game, it will also cure minor sicknesses)
